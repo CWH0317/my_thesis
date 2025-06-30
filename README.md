@@ -8,10 +8,10 @@
 ---
 
 ## 📁 專案結構 
-my_thesis:
-  CVIM: "Computer Vision & Image Measurement - 影像量測相關程式"
-  ML: "AI-based Image Segmentation - 影像分割任務"
-  
+my_thesis/
+├── CVIM/ # Computer Vision & Image Measurement 影像量測相關程式
+└── ML/ # AI-based Image Segmentation 影像分割任務   這一段幫我改成 markdown 格式
+
 ---
 
 ## 🧠 專案內容簡介
