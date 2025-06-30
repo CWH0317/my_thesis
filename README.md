@@ -7,11 +7,7 @@
 
 ---
 
-## 📁 專案結構
-my_thesis/
-├── CVIM/ # Computer Vision & Image Measurement 影像量測相關程式
-└── ML/ # AI-based Image Segmentation 影像分割任務
-
+<pre lang="markdown"> <code> ## 📁 專案結構 ```plaintext my_thesis/ ├── CVIM/ # Computer Vision & Image Measurement：影像量測相關程式 └── ML/ # AI-based Image Segmentation：影像分割任務 ``` </code> </pre>
 
 ---
 
